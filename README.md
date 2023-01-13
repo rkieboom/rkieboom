@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rowan van den Kieboom</h1>
-<h3 align="center">A passionate frontend developer from The Netherlands!</h3>
+<h3 align="center">A passionate developer from The Netherlands!</h3>
 
 - 🔭 I’m currently working on [ft_transendence](https://github.com/rkieboom/ft_transcendence)
 
