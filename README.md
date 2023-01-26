@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rkieboom/](https://github.com/rkieboom/)
 
-- 💬 Ask me about **C / C++ / Swift**
+- 💬 Ask me about **C / C++**
 
 - 📫 How to reach me **rowankieboom015@gmail.com**
 
