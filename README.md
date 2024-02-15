@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rowan van den Kieboom</h1>
 <h3 align="center">A passionate developer from The Netherlands!</h3>
 
-- 🔭 I’m currently working on Advertisement Application for Slagerij Thijs van den Kieboom
-
-- 🌱 I’m currently learning **.NET / Networking / Security**
+- 🌱 I’m currently learning **Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rkieboom/](https://github.com/rkieboom/)
 
